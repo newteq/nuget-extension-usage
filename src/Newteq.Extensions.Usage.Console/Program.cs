@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Newteq.Extensions.Usage.Console
+namespace Newteq.Extensions.Usage.ConsoleApp
 {
     class Program
     {

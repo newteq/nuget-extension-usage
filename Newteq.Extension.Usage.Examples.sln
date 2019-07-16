@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Newteq.Extension.Usage.Api", "src\Newteq.Extension.Usage.Api\Newteq.Extension.Usage.Api.csproj", "{5A8BEBA9-110C-4992-BA34-085025D9B7B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Newteq.Extensions.Usage.Console", "src\Newteq.Extensions.Usage.Console\Newteq.Extensions.Usage.Console.csproj", "{02D86661-5A55-4D92-AF96-A41AA6B1C165}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Newteq.Extensions.Usage.ConsoleApp", "src\Newteq.Extensions.Usage.Console\Newteq.Extensions.Usage.ConsoleApp.csproj", "{02D86661-5A55-4D92-AF96-A41AA6B1C165}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
